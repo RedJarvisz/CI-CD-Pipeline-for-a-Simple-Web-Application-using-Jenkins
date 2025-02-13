@@ -136,10 +136,3 @@ By the end of this project, you will have a fully automated CI/CD pipeline in Je
 
 ---
 
-### Next Steps
-- Extend the pipeline to include Docker for containerized deployments.
-- Set up notifications using Slack or email.
-- Implement security best practices for CI/CD.
-
-🚀 Happy Coding!
-
